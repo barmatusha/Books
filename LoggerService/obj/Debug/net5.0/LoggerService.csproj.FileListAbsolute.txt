@@ -1,0 +1,17 @@
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\LoggerService.dll
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\Contracts.dll
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\Entities.dll
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\Contracts.pdb
+D:\Innowise\Books\LoggerService\bin\Debug\net5.0\Entities.pdb
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.dll
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+D:\Innowise\Books\LoggerService\obj\Debug\net5.0\LoggerService.pdb

@@ -1,0 +1,15 @@
+D:\Innowise\Books\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\Innowise\Books\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\Innowise\Books\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+D:\Innowise\Books\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\Innowise\Books\Contracts\bin\Debug\net5.0\Entities.dll
+D:\Innowise\Books\Contracts\bin\Debug\net5.0\Entities.pdb
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.pdb
+D:\Innowise\Books\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete

@@ -1,0 +1,17 @@
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Repository.dll
+D:\Innowise\Books\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Contracts.dll
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Entities.dll
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Contracts.pdb
+D:\Innowise\Books\Repository\bin\Debug\net5.0\Entities.pdb
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.dll
+D:\Innowise\Books\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Innowise\Books\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete

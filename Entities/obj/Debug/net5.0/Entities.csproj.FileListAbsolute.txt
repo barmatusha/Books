@@ -1,0 +1,12 @@
+D:\Innowise\Books\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Innowise\Books\Entities\bin\Debug\net5.0\Entities.dll
+D:\Innowise\Books\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Innowise\Books\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.dll
+D:\Innowise\Books\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Innowise\Books\Entities\obj\Debug\net5.0\Entities.pdb
